@@ -1,6 +1,6 @@
 # Udacity--Project-Investigate-TMDB-Movies-Dataset
 
-<p><img src="https://intellipaat.com/blog/wp-content/uploads/2020/05/Data-Science-Projects-Big.jpg" alt="data scince image"></p>
+<p><img src="[https://intellipaat.com/blog/wp-content/uploads/2020/05/Data-Science-Projects-Big.jpg](https://nkpremices.com/content/images/size/w1600/2021/08/mih10uhu1464fx1kr0by-2.jpg)" alt="data scince image"></p>
 
 ## Project Overview
 In this project, we have to analyze a dataset and then communicate our findings about it.
