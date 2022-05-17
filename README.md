@@ -1,5 +1,7 @@
 # Udacity--Project-Investigate-TMDB-Movies-Dataset
 
+<p><img src="https://intellipaat.com/blog/wp-content/uploads/2020/05/Data-Science-Projects-Big.jpg" alt="data scince image"></p>
+
 ## Project Overview
 In this project, we have to analyze a dataset and then communicate our findings about it.
 We will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
