@@ -28,3 +28,7 @@ After completing the project, I have learned following :
 * Be able to use vectorized operations in NumPy and pandas to speed up your data analysis code
 * Be familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
 * Know how to use Matplotlib to produce plots showing your findings
+
+# Author
+
+ * [Mohamed musaad](https://www.linkedin.com/in/mohamed-musaad-aamer-a2a633202/)
